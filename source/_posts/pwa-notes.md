@@ -6,7 +6,6 @@ categories:
 tags:
 - PWA
 ---
-# PWA(Progressive Web Apps)学习笔记
 
 ## 什么是PWA
 PWA = 普通的网站 + manifest + Service Workers
