@@ -6,7 +6,6 @@ categories:
 tags:
 - 测试
 ---
-# Mocha笔记
 
 ## 测试脚本
 mocha默认加载test目录下的test.js，也可以通过参数指定需要运行的测试文件，如运行test目录下的test.math.js。

@@ -7,9 +7,9 @@ tags:
   - AngularJS
 ---
 
-# 装饰模式在AngularJS升级中的应用
 
 最近接到一个任务，需要将原先项目中的AngularJS版本从1.3升级到1.6，升级过程基本挺顺利的，项目整体的修改并不多，只要参考官方给出的升级文档就可以了:
+
 [https://code.angularjs.org/1.6.9/docs/guide/migration#migrating-from-1-3-to-1-4](https://code.angularjs.org/1.6.9/docs/guide/migration#migrating-from-1-3-to-1-4)
 
 <!-- more -->
