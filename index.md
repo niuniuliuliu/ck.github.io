@@ -1,6 +1,6 @@
 ## install
- npm i hexo-cli -g
- npm install hexo-deployer-git --save
+npm i hexo-cli -g
+npm install hexo-deployer-git --save
 
 ## init
 hexo init
